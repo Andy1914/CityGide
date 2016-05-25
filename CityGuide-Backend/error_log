@@ -1,0 +1,81 @@
+[17-Nov-2015 05:46:20 America/Denver] PHP Fatal error:  Cannot use [] for reading in /home2/eiconixd/public_html/cityguide/Insert_Traveller_Profile.php on line 11
+[17-Nov-2015 05:47:40 America/Denver] PHP Parse error:  syntax error, unexpected '$insertProfile' (T_VARIABLE) in /home2/eiconixd/public_html/cityguide/Insert_Traveller_Profile.php on line 16
+[17-Nov-2015 05:55:01 America/Denver] PHP Catchable fatal error:  Object of class PDOStatement could not be converted to string in /home2/eiconixd/public_html/cityguide/Get_Traveller_Profile.php on line 11
+[17-Nov-2015 06:06:06 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home2/eiconixd/public_html/cityguide/Get_Traveller_Profile.php on line 16
+[17-Nov-2015 06:06:39 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home2/eiconixd/public_html/cityguide/Get_Traveller_Profile.php on line 16
+[17-Nov-2015 06:09:28 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home2/eiconixd/public_html/cityguide/Get_Traveller_Profile.php on line 16
+[17-Nov-2015 06:11:52 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home2/eiconixd/public_html/cityguide/Get_Traveller_Profile.php on line 16
+[17-Nov-2015 06:12:36 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home2/eiconixd/public_html/cityguide/Get_Traveller_Profile.php on line 16
+[17-Nov-2015 06:13:15 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home2/eiconixd/public_html/cityguide/Get_Traveller_Profile.php on line 17
+[17-Nov-2015 06:13:38 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home2/eiconixd/public_html/cityguide/Get_Traveller_Profile.php on line 18
+[17-Nov-2015 06:13:53 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home2/eiconixd/public_html/cityguide/Get_Traveller_Profile.php on line 18
+[17-Nov-2015 06:14:17 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home2/eiconixd/public_html/cityguide/Get_Traveller_Profile.php on line 18
+[17-Nov-2015 06:14:55 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home2/eiconixd/public_html/cityguide/Get_Traveller_Profile.php on line 18
+[17-Nov-2015 06:25:32 America/Denver] PHP Notice:  Undefined index: id in /home2/eiconixd/public_html/cityguide/Get_Traveller_Profile.php on line 20
+[17-Nov-2015 06:25:32 America/Denver] PHP Notice:  Undefined index: credit_card in /home2/eiconixd/public_html/cityguide/Get_Traveller_Profile.php on line 21
+[17-Nov-2015 06:25:32 America/Denver] PHP Notice:  Undefined index: expiry in /home2/eiconixd/public_html/cityguide/Get_Traveller_Profile.php on line 22
+[17-Nov-2015 06:25:32 America/Denver] PHP Notice:  Undefined index: interests in /home2/eiconixd/public_html/cityguide/Get_Traveller_Profile.php on line 23
+[17-Nov-2015 06:25:32 America/Denver] PHP Notice:  Undefined index: language in /home2/eiconixd/public_html/cityguide/Get_Traveller_Profile.php on line 24
+[17-Nov-2015 06:25:32 America/Denver] PHP Notice:  Undefined index: special_needs in /home2/eiconixd/public_html/cityguide/Get_Traveller_Profile.php on line 25
+[17-Nov-2015 06:28:26 America/Denver] PHP Notice:  Undefined index: user_id in /home2/eiconixd/public_html/cityguide/Get_Traveller_Profile.php on line 9
+[17-Nov-2015 06:28:26 America/Denver] PHP Notice:  Undefined index: user_id in /home2/eiconixd/public_html/cityguide/Get_Traveller_Profile.php on line 9
+[17-Nov-2015 07:49:13 America/Denver] PHP Notice:  Undefined index: user_id in /home2/eiconixd/public_html/cityguide/Get_Traveller_Profile.php on line 9
+[17-Nov-2015 12:07:20 America/Denver] PHP Notice:  Undefined index: user_id in /home2/eiconixd/public_html/cityguide/Get_Traveller_Profile.php on line 9
+[17-Nov-2015 12:08:11 America/Denver] PHP Notice:  Undefined index: user_id in /home2/eiconixd/public_html/cityguide/Get_Traveller_Profile.php on line 9
+[17-Nov-2015 12:32:43 America/Denver] PHP Notice:  Undefined index: user_id in /home2/eiconixd/public_html/cityguide/Insert_Traveller_Profile.php on line 9
+[17-Nov-2015 12:32:43 America/Denver] PHP Notice:  Undefined index: credit_card in /home2/eiconixd/public_html/cityguide/Insert_Traveller_Profile.php on line 10
+[17-Nov-2015 12:32:43 America/Denver] PHP Notice:  Undefined index: expiry in /home2/eiconixd/public_html/cityguide/Insert_Traveller_Profile.php on line 11
+[17-Nov-2015 12:32:43 America/Denver] PHP Notice:  Undefined index: interests in /home2/eiconixd/public_html/cityguide/Insert_Traveller_Profile.php on line 12
+[17-Nov-2015 12:32:43 America/Denver] PHP Notice:  Undefined index: language in /home2/eiconixd/public_html/cityguide/Insert_Traveller_Profile.php on line 13
+[17-Nov-2015 12:32:43 America/Denver] PHP Notice:  Undefined index: special_needs in /home2/eiconixd/public_html/cityguide/Insert_Traveller_Profile.php on line 14
+[17-Nov-2015 12:32:53 America/Denver] PHP Notice:  Undefined index: user_id in /home2/eiconixd/public_html/cityguide/Insert_Traveller_Profile.php on line 9
+[17-Nov-2015 12:32:53 America/Denver] PHP Notice:  Undefined index: credit_card in /home2/eiconixd/public_html/cityguide/Insert_Traveller_Profile.php on line 10
+[17-Nov-2015 12:32:53 America/Denver] PHP Notice:  Undefined index: expiry in /home2/eiconixd/public_html/cityguide/Insert_Traveller_Profile.php on line 11
+[17-Nov-2015 12:32:53 America/Denver] PHP Notice:  Undefined index: interests in /home2/eiconixd/public_html/cityguide/Insert_Traveller_Profile.php on line 12
+[17-Nov-2015 12:32:53 America/Denver] PHP Notice:  Undefined index: language in /home2/eiconixd/public_html/cityguide/Insert_Traveller_Profile.php on line 13
+[17-Nov-2015 12:32:53 America/Denver] PHP Notice:  Undefined index: special_needs in /home2/eiconixd/public_html/cityguide/Insert_Traveller_Profile.php on line 14
+[17-Nov-2015 12:33:17 America/Denver] PHP Notice:  Undefined index: user_id in /home2/eiconixd/public_html/cityguide/Get_Traveller_Profile.php on line 9
+[17-Nov-2015 12:35:16 America/Denver] PHP Notice:  Undefined index: user_id in /home2/eiconixd/public_html/cityguide/Get_Traveller_Profile.php on line 9
+[17-Nov-2015 12:35:24 America/Denver] PHP Notice:  Undefined index: user_id in /home2/eiconixd/public_html/cityguide/Get_Traveller_Profile.php on line 9
+[17-Nov-2015 12:35:29 America/Denver] PHP Notice:  Undefined index: user_id in /home2/eiconixd/public_html/cityguide/Get_Traveller_Profile.php on line 9
+[17-Nov-2015 12:35:33 America/Denver] PHP Notice:  Undefined index: user_id in /home2/eiconixd/public_html/cityguide/Get_Traveller_Profile.php on line 9
+[17-Nov-2015 12:38:20 America/Denver] PHP Notice:  Undefined index: user_id in /home2/eiconixd/public_html/cityguide/Get_Traveller_Profile.php on line 9
+[17-Nov-2015 12:39:14 America/Denver] PHP Notice:  Undefined index: user_id in /home2/eiconixd/public_html/cityguide/Get_Traveller_Profile.php on line 9
+[24-Nov-2015 09:47:04 America/Denver] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home2/eiconixd/public_html/cityguide/register.php on line 89
+[24-Nov-2015 09:50:25 America/Denver] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home2/eiconixd/public_html/cityguide/register.php on line 89
+[24-Nov-2015 10:07:40 America/Denver] PHP Notice:  Undefined index: role in /home2/eiconixd/public_html/cityguide/register.php on line 67
+[24-Nov-2015 10:12:15 America/Denver] PHP Notice:  Undefined index: role in /home2/eiconixd/public_html/cityguide/register.php on line 67
+[24-Nov-2015 10:18:36 America/Denver] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home2/eiconixd/public_html/cityguide/profile_two.php on line 64
+[24-Nov-2015 12:20:44 America/Denver] PHP Notice:  Undefined index: role in /home2/eiconixd/public_html/cityguide/Get_Traveller_Profile.php on line 10
+[24-Nov-2015 12:20:57 America/Denver] PHP Notice:  Undefined index: role in /home2/eiconixd/public_html/cityguide/Get_Traveller_Profile.php on line 10
+[24-Nov-2015 12:23:23 America/Denver] PHP Notice:  Undefined index: role in /home2/eiconixd/public_html/cityguide/Get_Traveller_Profile.php on line 10
+[24-Nov-2015 12:23:28 America/Denver] PHP Notice:  Undefined index: role in /home2/eiconixd/public_html/cityguide/Get_Traveller_Profile.php on line 10
+[24-Nov-2015 12:23:50 America/Denver] PHP Notice:  Undefined index: role in /home2/eiconixd/public_html/cityguide/Get_Traveller_Profile.php on line 10
+[24-Nov-2015 12:24:00 America/Denver] PHP Notice:  Undefined index: role in /home2/eiconixd/public_html/cityguide/Get_Traveller_Profile.php on line 10
+[24-Nov-2015 12:24:06 America/Denver] PHP Notice:  Undefined index: role in /home2/eiconixd/public_html/cityguide/Get_Traveller_Profile.php on line 10
+[24-Nov-2015 12:25:46 America/Denver] PHP Notice:  Undefined index: role in /home2/eiconixd/public_html/cityguide/Get_Traveller_Profile.php on line 10
+[24-Nov-2015 12:26:02 America/Denver] PHP Notice:  Undefined index: role in /home2/eiconixd/public_html/cityguide/Get_Traveller_Profile.php on line 10
+[24-Nov-2015 12:26:29 America/Denver] PHP Notice:  Undefined index: role in /home2/eiconixd/public_html/cityguide/Get_Traveller_Profile.php on line 10
+[24-Nov-2015 12:26:48 America/Denver] PHP Notice:  Undefined index: role in /home2/eiconixd/public_html/cityguide/Get_Traveller_Profile.php on line 10
+[24-Nov-2015 12:28:37 America/Denver] PHP Notice:  Undefined index: role in /home2/eiconixd/public_html/cityguide/Get_Traveller_Profile.php on line 10
+[24-Nov-2015 12:28:43 America/Denver] PHP Notice:  Undefined index: role in /home2/eiconixd/public_html/cityguide/Get_Traveller_Profile.php on line 10
+[24-Nov-2015 12:29:38 America/Denver] PHP Notice:  Undefined index: role in /home2/eiconixd/public_html/cityguide/Get_Traveller_Profile.php on line 10
+[24-Nov-2015 12:29:55 America/Denver] PHP Notice:  Undefined index: role in /home2/eiconixd/public_html/cityguide/Get_Traveller_Profile.php on line 10
+[24-Nov-2015 12:30:22 America/Denver] PHP Notice:  Undefined index: role in /home2/eiconixd/public_html/cityguide/Get_Traveller_Profile.php on line 10
+[24-Nov-2015 12:32:59 America/Denver] PHP Notice:  Undefined index: role in /home2/eiconixd/public_html/cityguide/Get_Traveller_Profile.php on line 10
+[24-Nov-2015 12:34:09 America/Denver] PHP Notice:  Undefined index: role in /home2/eiconixd/public_html/cityguide/Get_Traveller_Profile.php on line 10
+[24-Nov-2015 12:35:08 America/Denver] PHP Notice:  Undefined index: role in /home2/eiconixd/public_html/cityguide/Get_Traveller_Profile.php on line 10
+[24-Nov-2015 12:35:20 America/Denver] PHP Notice:  Undefined index: role in /home2/eiconixd/public_html/cityguide/Get_Traveller_Profile.php on line 10
+[24-Nov-2015 12:35:23 America/Denver] PHP Notice:  Undefined index: role in /home2/eiconixd/public_html/cityguide/Get_Traveller_Profile.php on line 10
+[24-Nov-2015 12:35:39 America/Denver] PHP Notice:  Undefined index: role in /home2/eiconixd/public_html/cityguide/Get_Traveller_Profile.php on line 10
+[24-Nov-2015 12:41:19 America/Denver] PHP Notice:  Undefined index: role in /home2/eiconixd/public_html/cityguide/Get_Traveller_Profile.php on line 10
+[24-Nov-2015 12:41:26 America/Denver] PHP Notice:  Undefined index: role in /home2/eiconixd/public_html/cityguide/Get_Traveller_Profile.php on line 10
+[24-Nov-2015 12:41:31 America/Denver] PHP Notice:  Undefined index: role in /home2/eiconixd/public_html/cityguide/Get_Traveller_Profile.php on line 10
+[24-Nov-2015 12:41:38 America/Denver] PHP Notice:  Undefined index: role in /home2/eiconixd/public_html/cityguide/Get_Traveller_Profile.php on line 10
+[24-Nov-2015 12:48:05 America/Denver] PHP Notice:  Undefined index: role in /home2/eiconixd/public_html/cityguide/Get_Traveller_Profile.php on line 10
+[24-Nov-2015 12:49:10 America/Denver] PHP Notice:  Undefined index: role in /home2/eiconixd/public_html/cityguide/Get_Traveller_Profile.php on line 10
+[25-Nov-2015 08:20:30 America/Denver] PHP Notice:  Undefined index: role in /home2/eiconixd/public_html/cityguide/register.php on line 57
+[25-Nov-2015 08:20:38 America/Denver] PHP Notice:  Undefined index: role in /home2/eiconixd/public_html/cityguide/register.php on line 57
+[25-Nov-2015 08:23:35 America/Denver] PHP Notice:  Undefined index: role in /home2/eiconixd/public_html/cityguide/register.php on line 57
+[25-Nov-2015 08:26:16 America/Denver] PHP Notice:  Undefined index: role in /home2/eiconixd/public_html/cityguide/register.php on line 57
+[25-Nov-2015 08:35:28 America/Denver] PHP Notice:  Undefined index: role in /home2/eiconixd/public_html/cityguide/Get_Traveller_Profile.php on line 10
